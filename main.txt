@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 void main(void) {
-	printf("hola mundo"); // en esta linea de codigo se imprime hola mundo 
+	printf("Prueba");  en esta linea de codigo se imprime hola mundo
+
 }
